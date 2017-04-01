@@ -26,3 +26,6 @@
 [submodule "基础课程/程序设计基础（C语言）"]
 	path = 基础课程/程序设计基础（C语言）
 	url = https://github.com/edu2act/course-C
+[submodule "H5与移动互联网方向课程/jQueryUI"]
+	path = H5与移动互联网方向课程/jQueryUI
+	url = https://github.com/edu2act/course-jQueryUI.git
