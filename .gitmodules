@@ -4,3 +4,6 @@
 [submodule "H5与移动互联网方向课程/AngularJS"]
 	path = H5与移动互联网方向课程/AngularJS
 	url = https://github.com/edu2act/course-AngularJS.git
+[submodule "测试方向课程/APP-Testing"]
+	path = 测试方向课程/APP-Testing
+	url = https://github.com/edu2act/course-APP-Testing.git
