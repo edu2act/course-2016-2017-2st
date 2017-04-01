@@ -14,3 +14,6 @@
 	path = 测试方向课程/Load-Testing
 	url = https://github.com/edu2act/course-Load-Testing.git
 
+[submodule "Java与智能设备方向课程/AndroidTV应用开发"]
+	path = Java与智能设备方向课程/AndroidTV应用开发
+	url = https://github.com/edu2act/course-AndroidTV
