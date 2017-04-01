@@ -24,5 +24,5 @@
 	path = Java与智能设备方向课程/JavaSE
 	url = https://github.com/edu2act/course-JavaSE-Android
 [submodule "基础课程/程序设计基础（C语言—）"]
-	path = 基础课程/程序设计基础（C语言—）
+	path = 基础课程/程序设计基础（C语言）
 	url = https://github.com/edu2act/course-C
