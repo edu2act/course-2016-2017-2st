@@ -35,3 +35,6 @@
 [submodule "Java与大数据方向课程/JavaSE"]
 	path = Java与大数据方向课程/JavaSE
 	url = https://github.com/edu2act/course-JavaSE.git
+[submodule "PHP与云计算方向课程/foundation"]
+	path = PHP与云计算方向课程/foundation
+	url = https://github.com/edu2act/foundation-course-of-PHP-and-cloud-computing.git
