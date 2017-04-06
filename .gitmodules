@@ -38,3 +38,6 @@
 [submodule "PHP与云计算方向课程/foundation"]
 	path = PHP与云计算方向课程/foundation
 	url = https://github.com/edu2act/foundation-course-of-PHP-and-cloud-computing.git
+[submodule "基础课程/数据库系统概论"]
+	path = 基础课程/数据库系统概论
+	url = https://github.com/edu2act/course-DataBase.git
