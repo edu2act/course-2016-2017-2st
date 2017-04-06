@@ -41,3 +41,6 @@
 [submodule "基础课程/数据库系统概论"]
 	path = 基础课程/数据库系统概论
 	url = https://github.com/edu2act/course-DataBase.git
+[submodule "基础课程/项目管理"]
+	path = 基础课程/项目管理
+	url = https://github.com/edu2act/course-IT-Project-Management.git
