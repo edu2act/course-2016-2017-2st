@@ -44,3 +44,6 @@
 [submodule "基础课程/项目管理"]
 	path = 基础课程/项目管理
 	url = https://github.com/edu2act/course-IT-Project-Management.git
+[submodule "基础课程/WEB（一）"]
+	path = 基础课程/WEB（一）
+	url = https://github.com/edu2act/course-web1.git
