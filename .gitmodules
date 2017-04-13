@@ -62,3 +62,6 @@
 [submodule "PHP与云计算方向课程/Laravel框架开发"]
 	path = PHP与云计算方向课程/Laravel框架开发
 	url = https://github.com/edu2act/Course_Laravel
+[submodule "PHP与云计算方向课程/并行计算"]
+	path = PHP与云计算方向课程/并行计算
+	url = https://github.com/edu2act/course---Parallel-Computing.git
