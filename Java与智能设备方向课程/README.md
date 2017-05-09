@@ -18,8 +18,8 @@
 
 ### 课程列表
 
-1. [JavaSE编程基础](/JavaSE/)
-2. [APICloud应用开发](/APICloud/)
-3. [AndroidTV应用开发](/AndroidTV应用开发/)
-4. [AndroidWear应用开发](/AndroidWear应用开发/)
-5. [Android源生AR应用开发](/Android源生AR应用开发/)
+1. [JavaSE编程基础](https://github.com/edu2act/course-JavaSE-Android)
+2. [APICloud应用开发](https://github.com/edu2act/course-APICloud)
+3. [AndroidTV应用开发](https://github.com/edu2act/course-AndroidTV)
+4. [AndroidWear应用开发](https://github.com/edu2act/course-AndroidWear)
+5. [Android源生AR应用开发](https://github.com/edu2act/course-AndroidAR)
