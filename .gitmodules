@@ -56,9 +56,6 @@
 [submodule "基础课程/网络原理"]
 	path = 基础课程/网络原理
 	url = https://github.com/edu2act/course-NetWork.git
-[submodule "H5与移动互联网方向课程/fondation-course-of-HTML5-and-mobile-internet-development"]
-	path = H5与移动互联网方向课程/fondation-course-of-HTML5-and-mobile-internet-development
-	url = https://github.com/edu2act/fondation-course-of-HTML5-and-mobile-internet-development.git
 [submodule "PHP与云计算方向课程/Laravel框架开发"]
 	path = PHP与云计算方向课程/Laravel框架开发
 	url = https://github.com/edu2act/Course_Laravel
@@ -68,3 +65,6 @@
 [submodule "Java与大数据方向课程/Python"]
 	path = Java与大数据方向课程/Python
 	url = https://github.com/edu2act/course-Python.git
+[submodule "H5与移动互联网方向课程/HTML5与移动互联网开发方向基础课"]
+	path = H5与移动互联网方向课程/HTML5与移动互联网开发方向基础课
+	url = https://github.com/edu2act/course-HTML5-and-mobile-internet-development-fondation.git
