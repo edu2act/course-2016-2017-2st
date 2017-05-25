@@ -68,3 +68,6 @@
 [submodule "H5与移动互联网方向课程/HTML5与移动互联网开发方向基础课"]
 	path = H5与移动互联网方向课程/HTML5与移动互联网开发方向基础课
 	url = https://github.com/edu2act/course-HTML5-and-mobile-internet-development-fondation.git
+[submodule "PHP与云计算方向课程/高性能Web开发"]
+	path = PHP与云计算方向课程/高性能Web开发
+	url = https://github.com/edu2act/Course-Hign-Performance-PHP.git
