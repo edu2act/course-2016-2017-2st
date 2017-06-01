@@ -80,3 +80,6 @@
 [submodule "Java与大数据方向课程/数据挖掘基础"]
 	path = Java与大数据方向课程/数据挖掘基础
 	url = https://github.com/edu2act/course-Fundamentals-of-data-mining.git
+[submodule "测试方向课程/JavaSE"]
+	path = 测试方向课程/JavaSE
+	url = https://github.com/edu2act/course-JavaSE-CeShi.git
