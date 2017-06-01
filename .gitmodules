@@ -71,3 +71,6 @@
 [submodule "PHP与云计算方向课程/高性能Web开发"]
 	path = PHP与云计算方向课程/高性能Web开发
 	url = https://github.com/edu2act/Course-Hign-Performance-PHP.git
+[submodule "Java与大数据方向课程/Hadoop"]
+	path = Java与大数据方向课程/Hadoop
+	url = https://github.com/edu2act/course-Hadoop.git
