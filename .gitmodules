@@ -53,9 +53,6 @@
 [submodule "基础课程/操作系统"]
 	path = 基础课程/操作系统
 	url = https://github.com/edu2act/course-OS.git
-[submodule "基础课程/网络原理"]
-	path = 基础课程/网络原理
-	url = https://github.com/edu2act/course-NetWork.git
 [submodule "PHP与云计算方向课程/Laravel框架开发"]
 	path = PHP与云计算方向课程/Laravel框架开发
 	url = https://github.com/edu2act/Course_Laravel
