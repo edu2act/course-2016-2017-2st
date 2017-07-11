@@ -86,3 +86,6 @@
 [submodule "基础课程/网络原理"]
 	path = 基础课程/网络原理
 	url = https://github.com/edu2act/course-NetWork.git
+[submodule "测试方向课程/软件测试技术"]
+	path = 测试方向课程/软件测试技术
+	url = https://github.com/edu2act/Course-Software-Testing-Techniques.git
