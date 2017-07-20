@@ -1,4 +1,4 @@
-<img src=".https://raw.githubusercontent.com/edu2act/2017-2018_1st_Courses/master/Image/logo.png" height="50" /> 
+<img src="https://raw.githubusercontent.com/edu2act/2017-2018_1st_Courses/master/Image/logo.png" height="50" /> 
 
 > 河北师范大学软件学院 2016-2017学年 第二学期 课程汇总
 
