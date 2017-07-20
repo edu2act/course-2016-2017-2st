@@ -1,43 +1,6 @@
-[submodule "Java与智能设备方向课程/Android源生AR应用开发"]
-	path = Java与智能设备方向课程/Android源生AR应用开发
-	url = https://github.com/edu2act/course-AndroidAR
-[submodule "H5与移动互联网方向课程/Unity3D"]
-	path = H5与移动互联网方向课程/Unity3D
-	url = https://github.com/edu2act/course-Unity3D.git
-[submodule "H5与移动互联网方向课程/AngularJS"]
-	path = H5与移动互联网方向课程/AngularJS
-	url = https://github.com/edu2act/course-AngularJS.git
-[submodule "测试方向课程/APP-Testing"]
-	path = 测试方向课程/APP-Testing
-	url = https://github.com/edu2act/course-APP-Testing.git
-[submodule "测试方向课程/Load-Testing"]
-	path = 测试方向课程/Load-Testing
-	url = https://github.com/edu2act/course-Load-Testing.git
-
-[submodule "Java与智能设备方向课程/AndroidTV应用开发"]
-	path = Java与智能设备方向课程/AndroidTV应用开发
-	url = https://github.com/edu2act/course-AndroidTV
-[submodule "Java与智能设备方向课程/AndroidWear应用开发"]
-	path = Java与智能设备方向课程/AndroidWear应用开发
-	url = https://github.com/edu2act/course-AndroidWear
-[submodule "Java与智能设备方向课程/JavaSE"]
-	path = Java与智能设备方向课程/JavaSE
-	url = https://github.com/edu2act/course-JavaSE-Android
 [submodule "基础课程/程序设计基础（C语言）"]
 	path = 基础课程/程序设计基础（C语言）
-	url = https://github.com/edu2act/course-C
-[submodule "H5与移动互联网方向课程/jQueryUI"]
-	path = H5与移动互联网方向课程/jQueryUI
-	url = https://github.com/edu2act/course-jQueryUI.git
-[submodule "Java与智能设备方向课程/APICloud"]
-	path = Java与智能设备方向课程/APICloud
-	url = https://github.com/edu2act/course-APICloud
-[submodule "Java与大数据方向课程/JavaSE"]
-	path = Java与大数据方向课程/JavaSE
-	url = https://github.com/edu2act/course-JavaSE.git
-[submodule "PHP与云计算方向课程/foundation"]
-	path = PHP与云计算方向课程/foundation
-	url = https://github.com/edu2act/foundation-course-of-PHP-and-cloud-computing.git
+	url = https://github.com/edu2act/course-C.git
 [submodule "基础课程/数据库系统概论"]
 	path = 基础课程/数据库系统概论
 	url = https://github.com/edu2act/course-DataBase.git
@@ -53,21 +16,74 @@
 [submodule "基础课程/操作系统"]
 	path = 基础课程/操作系统
 	url = https://github.com/edu2act/course-OS.git
-[submodule "PHP与云计算方向课程/Laravel框架开发"]
-	path = PHP与云计算方向课程/Laravel框架开发
-	url = https://github.com/edu2act/Course_Laravel
-[submodule "PHP与云计算方向课程/并行计算"]
-	path = PHP与云计算方向课程/并行计算
-	url = https://github.com/edu2act/course---Parallel-Computing.git
-[submodule "Java与大数据方向课程/Python"]
-	path = Java与大数据方向课程/Python
-	url = https://github.com/edu2act/course-Python.git
+[submodule "基础课程/网络原理"]
+	path = 基础课程/网络原理
+	url = https://github.com/edu2act/course-NetWork.git
+
+[submodule "Java与智能设备方向课程/AndroidTV应用开发"]
+	path = Java与智能设备方向课程/AndroidTV应用开发
+	url = https://github.com/edu2act/course-AndroidTV.git
+[submodule "Java与智能设备方向课程/AndroidWear应用开发"]
+	path = Java与智能设备方向课程/AndroidWear应用开发
+	url = https://github.com/edu2act/course-AndroidWear.git
+[submodule "Java与智能设备方向课程/JavaSE"]
+	path = Java与智能设备方向课程/JavaSE
+	url = https://github.com/edu2act/course-JavaSE-Android.git
+[submodule "Java与智能设备方向课程/APICloud"]
+	path = Java与智能设备方向课程/APICloud
+	url = https://github.com/edu2act/course-APICloud.git
+[submodule "Java与智能设备方向课程/Android源生AR应用开发"]
+	path = Java与智能设备方向课程/Android源生AR应用开发
+	url = https://github.com/edu2act/course-AndroidAR.git
+        
+[submodule "H5与移动互联网方向课程/Unity3D"]
+	path = H5与移动互联网方向课程/Unity3D
+	url = https://github.com/edu2act/course-Unity3D.git
+[submodule "H5与移动互联网方向课程/AngularJS"]
+	path = H5与移动互联网方向课程/AngularJS
+	url = https://github.com/edu2act/course-AngularJS.git
+[submodule "H5与移动互联网方向课程/jQueryUI"]
+	path = H5与移动互联网方向课程/jQueryUI
+	url = https://github.com/edu2act/course-jQueryUI.git
 [submodule "H5与移动互联网方向课程/HTML5与移动互联网开发方向基础课"]
 	path = H5与移动互联网方向课程/HTML5与移动互联网开发方向基础课
 	url = https://github.com/edu2act/course-HTML5-and-mobile-internet-development-fondation.git
+
+[submodule "测试方向课程/APP-Testing"]
+	path = 测试方向课程/APP-Testing
+	url = https://github.com/edu2act/course-APP-Testing.git
+[submodule "测试方向课程/Load-Testing"]
+	path = 测试方向课程/Load-Testing
+	url = https://github.com/edu2act/course-Load-Testing.git
+[submodule "测试方向课程/JavaSE"]
+	path = 测试方向课程/JavaSE
+	url = https://github.com/edu2act/course-JavaSE-CeShi.git
+[submodule "测试方向课程/软件测试技术"]
+	path = 测试方向课程/软件测试技术
+	url = https://github.com/edu2act/Course-Software-Testing-Techniques.git
+[submodule "测试方向课程/测试过程管理ALM"]
+	path = 测试方向课程/测试过程管理ALM
+	url = https://github.com/edu2act/Course-Test-Process-Management.git
+
 [submodule "PHP与云计算方向课程/高性能Web开发"]
 	path = PHP与云计算方向课程/高性能Web开发
 	url = https://github.com/edu2act/Course-Hign-Performance-PHP.git
+[submodule "PHP与云计算方向课程/foundation"]
+	path = PHP与云计算方向课程/foundation
+	url = https://github.com/edu2act/foundation-course-of-PHP-and-cloud-computing.git
+[submodule "PHP与云计算方向课程/Laravel框架开发"]
+	path = PHP与云计算方向课程/Laravel框架开发
+	url = https://github.com/edu2act/Course-Laravel.git
+[submodule "PHP与云计算方向课程/并行计算"]
+	path = PHP与云计算方向课程/并行计算
+	url = https://github.com/edu2act/course---Parallel-Computing.git
+
+[submodule "Java与大数据方向课程/JavaSE"]
+	path = Java与大数据方向课程/JavaSE
+	url = https://github.com/edu2act/course-JavaSE.git
+[submodule "Java与大数据方向课程/Python"]
+	path = Java与大数据方向课程/Python
+	url = https://github.com/edu2act/course-Python.git
 [submodule "Java与大数据方向课程/Hadoop"]
 	path = Java与大数据方向课程/Hadoop
 	url = https://github.com/edu2act/course-Hadoop.git
@@ -77,18 +93,7 @@
 [submodule "Java与大数据方向课程/数据挖掘基础"]
 	path = Java与大数据方向课程/数据挖掘基础
 	url = https://github.com/edu2act/course-Fundamentals-of-data-mining.git
-[submodule "测试方向课程/JavaSE"]
-	path = 测试方向课程/JavaSE
-	url = https://github.com/edu2act/course-JavaSE-CeShi.git
+
 [submodule "机器学习/Python Web开发基础"]
 	path = 机器学习/Python Web开发基础
 	url = https://github.com/edu2act/course-Python-Web.git
-[submodule "基础课程/网络原理"]
-	path = 基础课程/网络原理
-	url = https://github.com/edu2act/course-NetWork.git
-[submodule "测试方向课程/软件测试技术"]
-	path = 测试方向课程/软件测试技术
-	url = https://github.com/edu2act/Course-Software-Testing-Techniques.git
-[submodule "测试方向课程/测试过程管理ALM"]
-	path = 测试方向课程/测试过程管理ALM
-	url = https://github.com/edu2act/Course-Test-Process-Management.git
