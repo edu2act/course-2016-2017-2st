@@ -94,3 +94,6 @@
 [submodule "机器学习/Python Web开发基础"]
 	path = 机器学习/Python Web开发基础
 	url = https://github.com/edu2act/course-Python-Web.git
+[submodule "基础课程/--name"]
+	path = 基础课程/--name
+	url = https://github.com/edu2act/course-CMS.git
