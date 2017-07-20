@@ -22,7 +22,7 @@
 |[WEB开发（一）](https://github.com/edu2act/course-web1/)|2016级|
 |[程序设计基础（C语言）](https://github.com/edu2act/course-C/)|2016级|
 |[操作系统](https://github.com/edu2act/course-OS/)|2015级|
-|CMS与模板制作|2015级|
+|[CMS与模板制作](https://github.com/edu2act/course-CMS)|2015级|
 |[数据库系统概论](https://github.com/edu2act/course-DataBase/)|2015级|
 |[项目管理](https://github.com/edu2act/course-IT-Project-Management/)|2014级|
 
