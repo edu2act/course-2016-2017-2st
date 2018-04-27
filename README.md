@@ -1,6 +1,20 @@
-<img src="https://raw.githubusercontent.com/edu2act/2017-2018_1st_Courses/master/Image/logo.png" height="50" /> 
+<img src="./image/logo.png" height="50" /> 
 
 > 河北师范大学软件学院 2016-2017学年 第二学期 课程汇总
+
+# 课程列表
+
+|课程名称|开设年级|所属方向|下载|
+|-------|-------|-------|-------|
+|[网络原理]()|2016级|[基础课程](./基础课程)| |
+|[WEB开发（一）](https://github.com/edu2act/course-web1/tree/2016-2017-2st)|2016级|[基础课程](./基础课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-web1/releases/tag/2016-2017-2st)|
+|[程序设计基础（C语言）]()|2016级|[基础课程](./基础课程)| |
+|[操作系统]()|2015级|[基础课程](./基础课程)| |
+|[CMS与模板制作]()|2015级|[基础课程](./基础课程)| |
+|[数据库系统概论]()|2015级|[基础课程](./基础课程)| |
+|[项目管理]()|2014级|[基础课程](./基础课程)| |
+
+
 
 # 课程方向
 
