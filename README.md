@@ -6,13 +6,13 @@
 
 |课程名称|开设年级|所属方向|下载|
 |-------|-------|-------|-------|
-|[网络原理]()|2016级|[基础课程](./基础课程)| |
+|[网络原理](https://github.com/edu2act/course-NetWork/tree/2016-2017-2st)|2016级|[基础课程](./基础课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-NetWork/releases/tag/2016-2017-2st)|
 |[WEB开发（一）](https://github.com/edu2act/course-web1/tree/2016-2017-2st)|2016级|[基础课程](./基础课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-web1/releases/tag/2016-2017-2st)|
-|[程序设计基础（C语言）]()|2016级|[基础课程](./基础课程)| |
-|[操作系统]()|2015级|[基础课程](./基础课程)| |
-|[CMS与模板制作]()|2015级|[基础课程](./基础课程)| |
-|[数据库系统概论]()|2015级|[基础课程](./基础课程)| |
-|[项目管理]()|2014级|[基础课程](./基础课程)| |
+|[程序设计基础（C语言）](https://github.com/edu2act/course-c/tree/2016-2017-2st)|2016级|[基础课程](./基础课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-c/releases/tag/2016-2017-2st)|
+|[操作系统](https://github.com/edu2act/course-os/tree/2016-2017-2st)|2015级|[基础课程](./基础课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-os/releases/tag/2016-2017-2st)|
+|[CMS与模板制作](https://github.com/edu2act/course-cms/tree/2016-2017-2st)|2015级|[基础课程](./基础课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-cms/releases/tag/2016-2017-2st)|
+|[数据库系统概论](https://github.com/edu2act/course-DataBase/tree/2016-2017-2st)|2015级|[基础课程](./基础课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-DataBase/releases/tag/2016-2017-2st)|
+|[项目管理](https://github.com/edu2act/course-IT-Project-Management/tree/2016-2017-2st)|2014级|[基础课程](./基础课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-IT-Project-Management/releases/tag/2016-2017-2st)|
 
 
 
