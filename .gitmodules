@@ -94,3 +94,6 @@
 [submodule "基础课程/CMS与模板制作"]
 	path = 基础课程/CMS与模板制作
 	url = https://github.com/edu2act/course-CMS.git
+[submodule "PHP与云计算方向课程/并行计算"]
+	path = PHP与云计算方向课程/并行计算
+	url = https://github.com/edu2act/course-parallel-cpomputing.git
