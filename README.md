@@ -28,6 +28,11 @@
 |[Python](https://github.com/edu2act/course-Python/tree/2016-2017-2st)|2014级|[Java与大数据分析](./Java与大数据方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-Python/releases/tag/2016-2017-2st)|
 |[Hadoop](https://github.com/edu2act/course-Hadoop/tree/2016-2017-2st)|2014级|[Java与大数据分析](./Java与大数据方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-Hadoop/releases/tag/2016-2017-2st)|
 |[数据挖掘基础](https://github.com/edu2act/course-Fundamentals-of-data-mining/tree/2016-2017-2st)|2014级|[Java与大数据分析](./Java与大数据方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-Fundamentals-of-data-mining/releases/tag/2016-2017-2st)|
+|[HTML5、CSS3、Bootstrap](https://github.com/edu2act/course-HTML5-and-mobile-internet-development-fondation/tree/2016-2017-2st)|2015级|[HTML5与移动互联网开发](./H5与移动互联网方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-HTML5-and-mobile-internet-development-fondation/releases/tag/2016-2017-2st)|
+|[jQueryUI](https://github.com/edu2act/course-jQueryUI/tree/2016-2017-2st)|2014级|[HTML5与移动互联网开发](./H5与移动互联网方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-jQueryUI/releases/tag/2016-2017-2st)|
+|[Unity3D](https://github.com/edu2act/course-Unity3D/tree/2016-2017-2st)|2014级|[HTML5与移动互联网开发](./H5与移动互联网方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-Unity3D/releases/tag/2016-2017-2st)|
+|[AngularJS](https://github.com/edu2act/course-AngularJS/tree/2016-2017-2st)|2014级|[HTML5与移动互联网开发](./H5与移动互联网方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-AngularJS/releases/tag/2016-2017-2st)|
+
 
 
 # 课程方向
