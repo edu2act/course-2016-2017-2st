@@ -32,43 +32,11 @@
 |[jQueryUI](https://github.com/edu2act/course-jQueryUI/tree/2016-2017-2st)|2014级|[HTML5与移动互联网开发](./H5与移动互联网方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-jQueryUI/releases/tag/2016-2017-2st)|
 |[Unity3D](https://github.com/edu2act/course-Unity3D/tree/2016-2017-2st)|2014级|[HTML5与移动互联网开发](./H5与移动互联网方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-Unity3D/releases/tag/2016-2017-2st)|
 |[AngularJS](https://github.com/edu2act/course-AngularJS/tree/2016-2017-2st)|2014级|[HTML5与移动互联网开发](./H5与移动互联网方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-AngularJS/releases/tag/2016-2017-2st)|
-
-
-
-# 课程方向
-
-- [HTML5与移动互联网开发](https://github.com/edu2act/Software-College-Course/tree/master/H5与移动互联网方向课程)
-- [Java与移动智能设备开发](https://github.com/edu2act/Software-College-Course/tree/master/Java与智能设备方向课程)
-
-
-## HTML5与移动互联网开发
-
-|课程名称|开设年级|
-|-------|-------|
-|[HTML5、CSS3、Bootstrap](https://github.com/edu2act/course-HTML5-and-mobile-internet-development-fondation/)|2015级|
-|[jQueryUI](https://github.com/edu2act/course-jQueryUI/)|2014级|
-|[Unity3D](https://github.com/edu2act/course-Unity3D/)|2014级|
-|[AngularJS](https://github.com/edu2act/course-AngularJS/)|2014级|
-
-## Java与移动智能设备开发方向
-
-|课程名称|开设年级|
-|-------|-------|
-|[JavaSE](https://github.com/edu2act/course-JavaSE-Android/)|2015级|
-|[APICloud](https://github.com/edu2act/course-APICloud/)|2014级|
-|[AndroidTV应用开发](https://github.com/edu2act/course-AndroidTV/)|2014级|
-|[AndroidWear应用开发](https://github.com/edu2act/course-AndroidWear/)|2014级|
-|[Android源生AR应用开发](https://github.com/edu2act/course-AndroidAR/)|2014级|
-
-
-<!--
-- Java与大数据分析
-- HTML5与移动互联网开发
-- Java与移动智能设备开发
-- PHP与云计算技术
-- Python与机器学习
-- 软件测试
--->
+|[JavaSE](https://github.com/edu2act/course-JavaSE-Android/tree/2016-2017-2st)|2015级|[Java与移动智能设备开发](./Java与智能设备方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-JavaSE-Android/releases/tag/2016-2017-2st)|
+|[APICloud](https://github.com/edu2act/course-APICloud/tree/2016-2017-2st)|2014级|[Java与移动智能设备开发](./Java与智能设备方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-APICloud/releases/tag/2016-2017-2st)|
+|[AndroidTV应用开发](https://github.com/edu2act/course-AndroidTV/tree/2016-2017-2st)|2014级|[Java与移动智能设备开发](./Java与智能设备方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-AndroidTV/releases/tag/2016-2017-2st)|
+|[AndroidWear应用开发](https://github.com/edu2act/course-AndroidWear/tree/2016-2017-2st)|2014级|[Java与移动智能设备开发](./Java与智能设备方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-AndroidWear/releases/tag/2016-2017-2st)|
+|[Android源生AR应用开发](https://github.com/edu2act/course-AndroidAR/tree/2016-2017-2st)|2014级|[Java与移动智能设备开发](./Java与智能设备方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-AndroidAR/releases/tag/2016-2017-2st)|
 
 
 
