@@ -18,28 +18,23 @@
 |[测试过程管理ALM](https://github.com/edu2act/course-Test-Process-Management/tree/2016-2017-2st)|2014级|[软件测试](./测试方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-Test-Process-Management/releases/tag/2016-2017-2st)|
 |[性能测试](https://github.com/edu2act/course-Load-Testing/tree/2016-2017-2st)|2014级|[软件测试](./测试方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-Load-Testing/releases/tag/2016-2017-2st)|
 |[移动端测试](https://github.com/edu2act/course-APP-Testing/tree/2016-2017-2st)|2014级|[软件测试](./测试方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-APP-Testing/releases/tag/2016-2017-2st)|
-|[PHP程序开发](https://github.com/edu2act/course-php-computing/tree/2016-2017-2st)|2015级|[PHP与云计算方向](./PHP与云计算方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-php-computing/releases/tag/2016-2017-2st)|
-|[并行计算](https://github.com/edu2act/course-parallel-cpomputing/tree/2016-2017-2st)|2014级|[PHP与云计算方向](./PHP与云计算方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-parallel-cpomputing/releases/tag/2016-2017-2st)|
-|[高性能Web开发](https://github.com/edu2act/course-php-hign-performance/tree/2016-2017-2st)|2014级|[PHP与云计算方向](./PHP与云计算方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-php-hign-performance/releases/tag/2016-2017-2st)|
-|[Laravel框架开发](https://github.com/edu2act/Course-Laravel/tree/2016-2017-2st)|2014级|[PHP与云计算方向](./PHP与云计算方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/Course-Laravel/releases/tag/2016-2017-2st)|
-|[Python Web开发基础](https://github.com/edu2act/course-Python-Web/tree/2016-2017-2st)|2015级|[Python与机器学习方向](./机器学习)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-Python-Web/tree/releases/tag/2016-2017-2st)|
+|[PHP程序开发](https://github.com/edu2act/course-php-computing/tree/2016-2017-2st)|2015级|[PHP与云计算](./PHP与云计算方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-php-computing/releases/tag/2016-2017-2st)|
+|[并行计算](https://github.com/edu2act/course-parallel-cpomputing/tree/2016-2017-2st)|2014级|[PHP与云计算](./PHP与云计算方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-parallel-cpomputing/releases/tag/2016-2017-2st)|
+|[高性能Web开发](https://github.com/edu2act/course-php-hign-performance/tree/2016-2017-2st)|2014级|[PHP与云计算](./PHP与云计算方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-php-hign-performance/releases/tag/2016-2017-2st)|
+|[Laravel框架开发](https://github.com/edu2act/Course-Laravel/tree/2016-2017-2st)|2014级|[PHP与云计算](./PHP与云计算方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/Course-Laravel/releases/tag/2016-2017-2st)|
+|[Python Web开发基础](https://github.com/edu2act/course-Python-Web/tree/2016-2017-2st)|2015级|[Python与机器学习](./机器学习)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-Python-Web/releases/tag/2016-2017-2st)|
+|[JavaSE](https://github.com/edu2act/course-JavaSE/tree/2016-2017-2st)|2015级|[Java与大数据分析](./Java与大数据方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-JavaSE/releases/tag/2016-2017-2st)|
+|[R语言](https://github.com/edu2act/course-R/tree/2016-2017-2st)|2014级|[Java与大数据分析](./Java与大数据方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-R/releases/tag/2016-2017-2st)|
+|[Python](https://github.com/edu2act/course-Python/tree/2016-2017-2st)|2014级|[Java与大数据分析](./Java与大数据方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-Python/releases/tag/2016-2017-2st)|
+|[Hadoop](https://github.com/edu2act/course-Hadoop/tree/2016-2017-2st)|2014级|[Java与大数据分析](./Java与大数据方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-Hadoop/releases/tag/2016-2017-2st)|
+|[数据挖掘基础](https://github.com/edu2act/course-Fundamentals-of-data-mining/tree/2016-2017-2st)|2014级|[Java与大数据分析](./Java与大数据方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-Fundamentals-of-data-mining/releases/tag/2016-2017-2st)|
+
 
 # 课程方向
 
-- [Java与大数据分析](https://github.com/edu2act/Software-College-Course/tree/master/Java与大数据方向课程)
 - [HTML5与移动互联网开发](https://github.com/edu2act/Software-College-Course/tree/master/H5与移动互联网方向课程)
 - [Java与移动智能设备开发](https://github.com/edu2act/Software-College-Course/tree/master/Java与智能设备方向课程)
 
-
-## Java与大数据分析方向
-
-|课程名称|开设年级|
-|-------|-------|
-|[JavaSE](https://github.com/edu2act/course-JavaSE/)|2015级|
-|[R语言](https://github.com/edu2act/course-R/)|2014级|
-|[Python](https://github.com/edu2act/course-Python/)|2014级|
-|[Hadoop](https://github.com/edu2act/course-Hadoop/)|2014级|
-|[数据挖掘基础](https://github.com/edu2act/course-Fundamentals-of-data-mining/)|2014级|
 
 ## HTML5与移动互联网开发
 
