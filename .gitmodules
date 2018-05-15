@@ -74,7 +74,7 @@
 
 [submodule "Java与大数据方向课程/JavaSE"]
 	path = Java与大数据方向课程/JavaSE
-	url = https://github.com/edu2act/course-JavaSE.git
+	url = https://github.com/edu2act/course-javase-bigdata.git
 [submodule "Java与大数据方向课程/Python"]
 	path = Java与大数据方向课程/Python
 	url = https://github.com/edu2act/course-Python.git
