@@ -13,16 +13,19 @@
 |[CMS与模板制作](https://github.com/edu2act/course-cms/tree/2016-2017-2st)|2015级|[基础课程](./基础课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-cms/releases/tag/2016-2017-2st)|
 |[数据库系统概论](https://github.com/edu2act/course-DataBase/tree/2016-2017-2st)|2015级|[基础课程](./基础课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-DataBase/releases/tag/2016-2017-2st)|
 |[项目管理](https://github.com/edu2act/course-IT-Project-Management/tree/2016-2017-2st)|2014级|[基础课程](./基础课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-IT-Project-Management/releases/tag/2016-2017-2st)|
-|[JavaSE](https://github.com/edu2act/course-JavaSE-test/tree/2016-2017-2st)|2015级|[软件测试](./软件测试)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-JavaSE-test/releases/tag/2016-2017-2st)|
-|[软件测试技术](https://github.com/edu2act/course-Software-Testing-Techniques/tree/2016-2017-2st)|2014级|[软件测试](./软件测试)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-Software-Testing-Techniques/releases/tag/2016-2017-2st)|
-|[测试过程管理ALM](https://github.com/edu2act/course-Test-Process-Management/tree/2016-2017-2st)|2014级|[软件测试](./软件测试)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-Test-Process-Management/releases/tag/2016-2017-2st)|
-|[性能测试](https://github.com/edu2act/course-Load-Testing/tree/2016-2017-2st)|2014级|[软件测试](./软件测试)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-Load-Testing/releases/tag/2016-2017-2st)|
-|[移动端测试](https://github.com/edu2act/course-APP-Testing/tree/2016-2017-2st)|2014级|[软件测试](./软件测试)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-APP-Testing/releases/tag/2016-2017-2st)|
+|[JavaSE](https://github.com/edu2act/course-JavaSE-test/tree/2016-2017-2st)|2015级|[软件测试](./测试方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-JavaSE-test/releases/tag/2016-2017-2st)|
+|[软件测试技术](https://github.com/edu2act/course-Software-Testing-Techniques/tree/2016-2017-2st)|2014级|[软件测试](./测试方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-Software-Testing-Techniques/releases/tag/2016-2017-2st)|
+|[测试过程管理ALM](https://github.com/edu2act/course-Test-Process-Management/tree/2016-2017-2st)|2014级|[软件测试](./测试方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-Test-Process-Management/releases/tag/2016-2017-2st)|
+|[性能测试](https://github.com/edu2act/course-Load-Testing/tree/2016-2017-2st)|2014级|[软件测试](./测试方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-Load-Testing/releases/tag/2016-2017-2st)|
+|[移动端测试](https://github.com/edu2act/course-APP-Testing/tree/2016-2017-2st)|2014级|[软件测试](./测试方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-APP-Testing/releases/tag/2016-2017-2st)|
+|[PHP程序开发](https://github.com/edu2act/course-php-computing/tree/2016-2017-2st)|2015级|[PHP与云计算方向](./PHP与云计算方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-php-computing/releases/tag/2016-2017-2st)|
+|[并行计算](https://github.com/edu2act/course-parallel-cpomputing/tree/2016-2017-2st)|2014级|[PHP与云计算方向](./PHP与云计算方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-parallel-cpomputing/releases/tag/2016-2017-2st)|
+|[高性能Web开发](https://github.com/edu2act/course-php-hign-performance/tree/2016-2017-2st)|2014级|[PHP与云计算方向](./PHP与云计算方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-php-hign-performance/releases/tag/2016-2017-2st)|
+|[Laravel框架开发](https://github.com/edu2act/Course-Laravel/tree/2016-2017-2st)|2014级|[PHP与云计算方向](./PHP与云计算方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/Course-Laravel/releases/tag/2016-2017-2st)|
+
 
 # 课程方向
 
-- [基础课程](https://github.com/edu2act/Software-College-Course/tree/master/基础课程)
-- [软件测试](https://github.com/edu2act/Software-College-Course/tree/master/测试方向课程)
 - [PHP与云计算技术](https://github.com/edu2act/Software-College-Course/tree/master/PHP与云计算方向课程)
 - [Java与大数据分析](https://github.com/edu2act/Software-College-Course/tree/master/Java与大数据方向课程)
 - [Python与机器学习](https://github.com/edu2act/Software-College-Course/tree/master/机器学习)
