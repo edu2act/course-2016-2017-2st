@@ -22,32 +22,14 @@
 |[并行计算](https://github.com/edu2act/course-parallel-cpomputing/tree/2016-2017-2st)|2014级|[PHP与云计算方向](./PHP与云计算方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-parallel-cpomputing/releases/tag/2016-2017-2st)|
 |[高性能Web开发](https://github.com/edu2act/course-php-hign-performance/tree/2016-2017-2st)|2014级|[PHP与云计算方向](./PHP与云计算方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-php-hign-performance/releases/tag/2016-2017-2st)|
 |[Laravel框架开发](https://github.com/edu2act/Course-Laravel/tree/2016-2017-2st)|2014级|[PHP与云计算方向](./PHP与云计算方向课程)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/Course-Laravel/releases/tag/2016-2017-2st)|
-
+|[Python Web开发基础](https://github.com/edu2act/course-Python-Web/tree/2016-2017-2st)|2015级|[Python与机器学习方向](./机器学习)|[![](https://img.shields.io/badge/term-2016--2017--2st-orange.svg)](https://github.com/edu2act/course-Python-Web/tree/releases/tag/2016-2017-2st)|
 
 # 课程方向
 
-- [PHP与云计算技术](https://github.com/edu2act/Software-College-Course/tree/master/PHP与云计算方向课程)
 - [Java与大数据分析](https://github.com/edu2act/Software-College-Course/tree/master/Java与大数据方向课程)
-- [Python与机器学习](https://github.com/edu2act/Software-College-Course/tree/master/机器学习)
 - [HTML5与移动互联网开发](https://github.com/edu2act/Software-College-Course/tree/master/H5与移动互联网方向课程)
 - [Java与移动智能设备开发](https://github.com/edu2act/Software-College-Course/tree/master/Java与智能设备方向课程)
 
-
-
-## PHP与云计算技术
-
-|课程名称|开设年级|
-|-------|-------|
-|[PHP程序开发](https://github.com/edu2act/foundation-course-of-PHP-and-cloud-computing/)|2015级|
-|[并行计算](https://github.com/edu2act/course---Parallel-Computing/)|2014级|
-|[高性能Web开发](https://github.com/edu2act/Course-Hign-Performance-PHP/)|2014级|
-|[Laravel框架开发](https://github.com/edu2act/Course-Laravel/)|2014级|
-
-## Python与机器学习方向
-
-|课程名称|开设年级|
-|-------|-------|
-|[Python Web开发基础](https://github.com/edu2act/course-Python-Web/)|2015级|
 
 ## Java与大数据分析方向
 
