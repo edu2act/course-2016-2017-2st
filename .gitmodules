@@ -97,3 +97,6 @@
 [submodule "PHP与云计算方向课程/并行计算"]
 	path = PHP与云计算方向课程/并行计算
 	url = https://github.com/edu2act/course-parallel-cpomputing.git
+[submodule "基础课程/软件体系结构（设计模式）"]
+	path = 基础课程/软件体系结构（设计模式）
+	url = https://github.com/edu2act/course-Software-architecture.git
